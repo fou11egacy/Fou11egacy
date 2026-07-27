@@ -1,16 +1,14 @@
-<a4/> dan heng <3 (wip ignore this)
 
-<!--
-**fou11egacy/Fou11egacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
+<head>
 
-Here are some ideas to get you started:
+  
+</head>
+<body>
+  <img src="https://media.discordapp.net/attachments/1152155036084871199/1531241891910123562/Untitled46_20260727180827.png?ex=6a687fa4&is=6a672e24&hm=ad1c687f501605e355e8645dc90b90f258c2f229c2f2a7d83d29b98f4fd3015f&=&format=webp&quality=lossless&width=350&height=350" alt="chi" class="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p> <center> 　　　　　　 sign <a href="https://fou11egacy.atabook.org/">atabook ^_^</a>  ! </p>
+
+ <h6>　　　　　　still a wip , bear with me !!!
+</body>
+</html>
