@@ -9,9 +9,9 @@
 
   <p class="center"> 　　　　　　　 sign <a href="https://fou11egacy.atabook.org/">atabook ^_^</a>  ! </p>
 
- <p> <h6 class="center">　　  　　　　" it will hurt, so endure it " </h6>
+ <p> <h6 class="center">　　  　　　　　" it will hurt, so endure it " </h6>
 
- <h6 class="center">　　  　　　　still a wip , bear with me !!! </h6>
+ <h6 class="center">　　  　　　　　still a wip , bear with me !!! </h6>
    </center>
 </body>
 </html>
