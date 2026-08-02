@@ -9,7 +9,7 @@
 
   <p class="center"> 　　　　　　　 sign <a href="https://fou11egacy.atabook.org/">atabook ^_^</a>  ! </p>
 
- <p> <h6 class="center">　　  　　　" Remember comrade, one day ,  </h6>
+ <p> <h6 class="center">　　  　　　　　　" Remember comrade, one day ,  </h6>
  <p> <h6 class="center">　　  　  　  　　　　　I will conquer the world. "  </h6>
    <br>
  <h6 class="center">　　  　　　　　still a wip , bear with me !!! </h6>
