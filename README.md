@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=fou11egacy&label=comrades&color=845672&style=flat">
 </div>
 <!-- ROW 1: small image left, chibi right, text centered between -->
-<img align="right" width="550" src="https://media.discordapp.net/attachments/1152155036084871199/1555465349720449044/Untitled229_20261002142351.png?backend=b2&ex=6ac09f7e&is=6abf4dfe&hm=61f0f8b4c0e0e772d4c8930495c8772b595590352c1e002786cbd5a26ea0d21f&=&format=webp&quality=lossless&width=1280&height=1006">
+<img align="right" width="500" src="https://media.discordapp.net/attachments/1152155036084871199/1555465349720449044/Untitled229_20261002142351.png?backend=b2&ex=6ac09f7e&is=6abf4dfe&hm=61f0f8b4c0e0e772d4c8930495c8772b595590352c1e002786cbd5a26ea0d21f&=&format=webp&quality=lossless&width=1280&height=1006">
 <div align="center">
 
 <br><br><br>
