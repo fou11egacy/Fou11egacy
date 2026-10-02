@@ -36,11 +36,13 @@ $$\color{#855A76}\quad\quad\quad\quad\quad\quad\quad\texttt{.....}\quad\color{#E
 [sign my ata 4 a spar!](https://fou11egacy.atabook.org/) 　♪　 [sign my strawpage 2 :P](https://aajaxx.straw.page)
 
 <details>
-<summary>$$\color{#EADDD9}\texttt{pt rules}$$</summary>
+<summary>$$\color{#EADDD9}\texttt{pt info}$$</summary>
 
 $$\color{#855A76}\texttt{- c*h is almost always enc !}$$ <br>
-$$\color{#855A76}\texttt{- i rarely initiate cuddles (like cuddling to other people) so just inv me if u want me to ok ok ok!}$$ <br>
+$$\color{#EADDD9}\texttt{- i rarely initiate cuddles (like cuddling to other people) so just inv me if u want me to ok ok ok!}$$ <br>
 $$\color{#855A76}\texttt{- do not cover unless i initiate it }$$
+$$\color{#EADDD9}\texttt{- i like to joke around stuff like breaking up and cheating w friends BUT i do not condone these in reality and i am not one myself, thank you!}$$
+$$\color{#855A76}\texttt{- i must reiterate, please do NOT cover me }$$
 </details>
 
 <details>
