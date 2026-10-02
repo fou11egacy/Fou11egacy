@@ -60,20 +60,16 @@ $$\color{#855A76}\texttt{- do not cover unless i initiate it }$$
 <img align="left" width="430" src="https://media.discordapp.net/attachments/1152155036084871199/1555475654374465566/Untitled229_20261002150446.png?backend=b2&ex=6ac0a917&is=6abf5797&hm=18972d99de04fe57e15ebdf06d2b27cb18b504904154f060fc530bf6ee98f73e&=&format=webp&quality=lossless&width=1280&height=1006">
 
 <div align="center">
+<br>
+<br>
+<br>
+<br>
 
-$$\color{#EADDD9}\texttt{" Tell me, how has Mr. Zhongli been lately? Not bad, you say? Seems he's had no}$$
-$$\color{#EADDD9}\texttt{problem acclimating to "mortal" life. Hmph, he sure had me fooled. Such a fiasco}$$
-$$\color{#EADDD9}\texttt{mustn't be so easily forgiven! The only way to reconciliation is fierce combat!}$$
-$$\color{#EADDD9}\texttt{What do you mean I'm no match for him? Hahaha... "}$$
+$$\color{#EADDD9}\texttt{" Tell me, how has Mr. Zhongli been lately? "}$$
 
 <br>
 
-$$\color{#855A76}\texttt{"  It's said that Childe and his reputation have yet again stirred up waves among}$$
-$$\color{#855A76}\texttt{the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose }$$
-$$\color{#855A76}\texttt{anyone who dares to challenge his actions. Hmm... Come to think of it, there will}$$
-$$\color{#855A76}\texttt{be a lot of interesting news to be heard the next time we gather for drinks. Care to}$$
-$$\color{#855A76}\texttt{join me when the time comes, Traveler?}$$
-
+$$\color{#855A76}\texttt{"  That rascal from Snezhnaya has yet to depart from Liyue? "}$$
 </details>
 
 </div>
