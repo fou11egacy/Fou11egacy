@@ -1,3 +1,6 @@
+<div align="center">
+ <img src="https://readmewidgets.dev/fou11egacy/typing?v=1" width="56%" alt="Typing Text"/>
+</div>
 <img src="https://media.discordapp.net/attachments/1152155036084871199/1555463608513863710/Untitled229_20261002141654.png?backend=b2&ex=6ac09ddf&is=6abf4c5f&hm=2f6948914a57c3d3bb50d12ee7333f25c8e77cfe65831df8e1c2233b38753c83&=&format=webp&quality=lossless&width=2048&height=843">
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fou11egacy&label=comrades&color=845672&style=flat">
