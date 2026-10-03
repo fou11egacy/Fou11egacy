@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=fou11egacy&label=comrades&color=845672&style=flat">
 </div>
 <!-- ROW 1: small image left, chibi right, text centered between -->
-<img align="right" width="50%" src="https://media.discordapp.net/attachments/1152155036084871199/1555465349720449044/Untitled229_20261002142351.png?backend=b2&ex=6ac09f7e&is=6abf4dfe&hm=61f0f8b4c0e0e772d4c8930495c8772b595590352c1e002786cbd5a26ea0d21f&=&format=webp&quality=lossless&width=1280&height=1006">
+<img align="right" width="50%" src="https://media.discordapp.net/attachments/1152155036084871199/1555465349720449044/Untitled229_20261002142351.png?backend=b2&ex=6ac1f0fe&is=6ac09f7e&hm=bfa4555217050b5c8734eb3b2482567b5b9657f75e12daea033ddee6cd88dd8d&=&format=webp&quality=lossless&width=1280&height=1006">
 <div align="center">
 
 <br><br><br>
@@ -59,7 +59,7 @@ $$\color{#855A76}\texttt{- i must reiterate, please do NOT cover me }$$
 <br>
 
 <!-- BOTTOM: creds centered, image right -->
-<img align="left" width="43%" src="https://media.discordapp.net/attachments/1152155036084871199/1555475654374465566/Untitled229_20261002150446.png?backend=b2&ex=6ac0a917&is=6abf5797&hm=18972d99de04fe57e15ebdf06d2b27cb18b504904154f060fc530bf6ee98f73e&=&format=webp&quality=lossless&width=1280&height=1006">
+<img align="left" width="43%" src="https://media.discordapp.net/attachments/1152155036084871199/1555475654374465566/Untitled229_20261002150446.png?backend=b2&ex=6ac1fa97&is=6ac0a917&hm=16f869010d75d17984461e024401529201b8d00224b7f1f3009b1cafc2555c39&=&format=webp&quality=lossless&width=1280&height=1006">
 
 <div align="center">
 <br>
