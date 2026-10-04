@@ -36,7 +36,7 @@ $$\color{#855A76}\quad\quad\quad\quad\quad\quad\quad\texttt{.....}\quad\color{#E
 
 <br>
 
-[sign my ata 4 a spar!](https://fou11egacy.atabook.org/) 　♪　 [sign my strawpage 2 :P](https://aajaxx.straw.page)
+[sign my ata 4 a spar!](https://fou11egacy.atabook.org/) 　♪　 [sign my strawpage 2 :P](https://aajaxx.straw.page) 　♪　 [prns](https://en.pronouns.page/@aajaxx)
 
 <details>
 <summary>$$\color{#EADDD9}\texttt{pt info}$$</summary>
