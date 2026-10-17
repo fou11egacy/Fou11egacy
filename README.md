@@ -81,4 +81,4 @@ $$\color{#855A76}\texttt{"  That rascal from Snezhnaya has yet to depart from Li
 
 <br clear="all">
 
-hi github keeps taking away my images . im gonna fix this later
+hi github keeps taking away my images . im gonna fix this all socials laterrrrrrrrrrrrrr
