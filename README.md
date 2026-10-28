@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=fou11egacy&label=comrades&color=845672&style=flat">
+<img src="https://komarev.com/ghpvc/?username=fou11egacy&label=comrades&color=000000&style=flat">
 </div>
 <!-- ROW 1: small image left, chibi right, text centered between -->
 
