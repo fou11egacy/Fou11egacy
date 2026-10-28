@@ -54,7 +54,8 @@ $$\color{#855A76}\texttt{- i must reiterate, please do NOT cover me }$$
 <details>
 <summary>$$\color{#855A76}\texttt{Mentions}$$</summary>
 
-[Ponytowns-rewards](https://github.com/Ponytowns-rewards)   ,   [pt-nominations](https://github.com/pt-nominations)   ,   [pt-fashion](https://github.com/pt-fashion)   ,   [pt-contributers](https://github.com/pt-contributers)   ,   [ponychievements](https://github.com/ponychievements)
+[Ponytowns-rewards](https://github.com/Ponytowns-rewards)   ,   [pt-nominations](https://github.com/pt-nominations)   ,   [pt-fashion](https://github.com/pt-fashion)   ,   [pt-contributers](https://github.com/pt-contributers)   ,   [ponychievements](https://github.com/ponychievements)   ,   [THE-TEMPIST](https://github.com/THE-TEMPIST)
+
 
 </details>
 
