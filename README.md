@@ -13,6 +13,8 @@
 
 <br>
 
+<img src="https://ajaxgrphics.carrd.co/assets/images/image04.png?v=9a8f4b64" width="60%">
+
 $$\color{#EADDD9}\texttt{Well then}\color{#855A76}\quad\texttt{........}\quad\quad\quad\quad\quad\quad\quad$$
 
 <br>
@@ -24,6 +26,7 @@ $$\color{#EADDD9}\quad\quad\texttt{tartaglia}\ \color{#855A76}\texttt{kin}$$
 <br>
 
 $$\color{#855A76}\quad\quad\quad\quad\quad\quad\quad\texttt{.....}\quad\color{#EADDD9}\texttt{Amuse me!}$$ 
+
 
 </div>
 
