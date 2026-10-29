@@ -15,18 +15,6 @@
 
 <img src="https://ajaxgrphics.carrd.co/assets/images/image04.png?v=9a8f4b64" width="60%">
 
-$$\color{#EADDD9}\texttt{Well then}\color{#855A76}\quad\texttt{........}\quad\quad\quad\quad\quad\quad\quad$$
-
-<br>
-
-$$\color{#EADDD9}\quad\quad\texttt{Ajax}\quad\quad\color{#855A76}\texttt{xntp}\quad\quad\color{#EADDD9}\texttt{4w3}$$
-
-$$\color{#EADDD9}\quad\quad\texttt{tartaglia}\ \color{#855A76}\texttt{kin}$$ 
-
-<br>
-
-$$\color{#855A76}\quad\quad\quad\quad\quad\quad\quad\texttt{.....}\quad\color{#EADDD9}\texttt{Amuse me!}$$ 
-
 
 </div>
 
@@ -64,24 +52,6 @@ $$\color{#855A76}\texttt{- i must reiterate, please do NOT cover me }$$
 <br clear="all">
 <br>
 <br>
-
-<!-- BOTTOM: creds centered, image right -->
-
-
-<div align="center">
-<br>
-<br>
-<br>
-<br>
-
-$$\color{#EADDD9}\texttt{" Tell me, how has Mr. Zhongli been lately? "}$$
-
-<br>
-
-$$\color{#855A76}\texttt{"  That rascal from Snezhnaya has yet to depart from Liyue? "}$$
-</details>
-
-</div>
 
 <br clear="all">
 
