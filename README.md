@@ -16,13 +16,13 @@
 <br>
 
 <img src="https://ajaxgrphics.carrd.co/assets/images/image07.png?v=678d22e5">
-<br> <br> <br>
-<img src="https://ajaxgrphics.carrd.co/assets/images/image06.png?v=678d22e5" width="70%">
 
 
 </div>
 
 <br clear="all">
+<br>
+
 <br>
 <br>
 
@@ -31,22 +31,15 @@
 
 <br>
 
-[ata](https://fou11egacy.atabook.org/) 　♪　 [sp UPDATED!!](https://aaajax.straw.page) 　♪　 [prns](https://en.pronouns.page/@aajaxx)
+[ata](https://fou11egacy.atabook.org/) 　　 [sp](https://aaajax.straw.page) 　　 [prns](https://en.pronouns.page/@aajaxx)
+
+<br>
+<br>
 
 <details>
-<summary>$$\color{#4b7777}\texttt{pt info}$$</summary>
+<summary>$$\color{#95a19f}\texttt{awards}$$</summary>
 
-$$\color{#95a19f}\texttt{- c*h is almost always enc !}$$ <br>
-$$\color{#4b7777}\texttt{- i rarely initiate cuddles (like cuddling to other people) so just inv me if u want me to ok ok ok!}$$ <br>
-$$\color{#95a19f}\texttt{- do not cover unless i initiate it }$$
-$$\color{#4b7777}\texttt{- i like to joke around stuff like breaking up and cheating w friends BUT i do not condone these in reality and i am not one myself, thank you!}$$
-$$\color{#95a19f}\texttt{- i must reiterate, please do NOT cover me }$$
-</details>
-
-<details>
-<summary>$$\color{#95a19f}\texttt{Mentions}$$</summary>
-
-huge thank you to : [Ponytowns-rewards](https://github.com/Ponytowns-rewards)   ,   [pt-nominations](https://github.com/pt-nominations)   ,   [pt-fashion](https://github.com/pt-fashion)   ,   [pt-contributers](https://github.com/pt-contributers)   ,   [ponychievements](https://github.com/ponychievements)   ,   [THE-TEMPIST](https://github.com/THE-TEMPIST)  ,   [piddlesjet](https://github.com/piddlesjet)  ,   [Knox-Event](https://github.com/Knox-Event)   ,   [pt-everypony](https://github.com/pt-everypony)
+hPt's Childe in !! : : [Ponytowns-rewards](https://github.com/Ponytowns-rewards)   ,   [pt-nominations](https://github.com/pt-nominations)   ,   [pt-fashion](https://github.com/pt-fashion)   ,   [pt-contributers](https://github.com/pt-contributers)   ,   [ponychievements](https://github.com/ponychievements)   ,   [THE-TEMPIST](https://github.com/THE-TEMPIST)  ,   [piddlesjet](https://github.com/piddlesjet)  ,   [Knox-Event](https://github.com/Knox-Event)   ,   [pt-everypony](https://github.com/pt-everypony)   ,   thank you so much <3
 
 
 </details>
@@ -58,5 +51,3 @@ huge thank you to : [Ponytowns-rewards](https://github.com/Ponytowns-rewards)   
 <br>
 
 <br clear="all">
-
-hi github keeps taking away my images . im gonna fix this all socials laterrrrrrrrrrrrrr
