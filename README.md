@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://ajaxgrphics.carrd.co/assets/images/image07.png?v=678d22e5">
+<img src="https://ajaxgrphics.carrd.co/assets/images/image10.png?v=6fb293aa">
 
 
 </div>
@@ -23,21 +23,18 @@
 <br clear="all">
 <br>
 
-<br>
-<br>
-
 
 <div align="center">
 
 <br>
 
-[ata](https://fou11egacy.atabook.org/) 　　 [sp](https://aaajax.straw.page) 　　 [prns](https://en.pronouns.page/@aajaxx)
+[ata](https://fou11egacy.atabook.org/) 　　 remaking other socials lalala
 
 <br>
 <br>
 
 <details>
-<summary>$$\color{#95a19f}\texttt{awards}$$</summary>
+<summary>$$\color{#C34F51}\texttt{awards}$$</summary>
 
 hPt's Childe in !! : : [Ponytowns-rewards](https://github.com/Ponytowns-rewards)   ,   [pt-nominations](https://github.com/pt-nominations)   ,   [pt-fashion](https://github.com/pt-fashion)   ,   [pt-contributers](https://github.com/pt-contributers)   ,   [ponychievements](https://github.com/ponychievements)   ,   [THE-TEMPIST](https://github.com/THE-TEMPIST)  ,   [piddlesjet](https://github.com/piddlesjet)  ,   [Knox-Event](https://github.com/Knox-Event)   ,   [pt-everypony](https://github.com/pt-everypony)   ,   thank you so much <3
 
@@ -46,7 +43,9 @@ hPt's Childe in !! : : [Ponytowns-rewards](https://github.com/Ponytowns-rewards)
 
 </div>
 
+<div align=center>
 <br clear="all">
+<img src="https://ajaxgrphics.carrd.co/assets/images/image11.png?v=99929b02" width="60%"> 
 <br>
 <br>
 
